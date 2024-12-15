@@ -1,0 +1,12 @@
+{
+  "name": "haproxy-dude",
+  "version": "1.0.0",
+  "main": "s1.js",
+  "scripts": {
+    "start": "chmod +x start.sh \n ./start.sh"
+  },
+  "keywords": [],
+  "author": "Shubham Jadhav <shubhamsj077@gmail.com>",
+  "license": "ISC",
+  "description": "HAProxy load balancing basic setup"
+}
